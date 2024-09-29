@@ -2,14 +2,25 @@
 
 The keyboard bezel surrounds the keyswitches, covering the front of the case.
 
-![View](Images/Keyboard_Bezel.png)
-
-## STLs
-
 This repository has two types of bezels below:
 
-- [Original](Model_3_Original.stl) - This is a replicate of the original bezel.
-- [Modern](Model_3_Modern.stl) - This is a bezel that was made to fit [Jay Crutti's MX Replacement keyboard](https://www.jaycrutti.com/hardware-projects/tandy-trs-80-replacement-keyboards).
+## Original
+
+This is a replicate of the original bezel.
+
+- [STL Original](Model_3_Original.stl)
+
+![Original Top](Images/TRS80_Model_3_Original_Top.png)
+![Original Bottom](Images/TRS80_Model_3_Original_Bottom.png)
+
+## Modern
+
+This is a bezel that was made to fit [Jay Crutti's MX Replacement keyboard](https://www.jaycrutti.com/hardware-projects/tandy-trs-80-replacement-keyboards).
+
+- [STL Modern](Model_3_Modern.stl)
+
+![Modern Top](Images/TRS80_Model_3_Modern_Top.png)
+![Modern Bottom](Images/TRS80_Model_3_Modern_Bottom.png)
 
 ## Order Instruction - [JLC3DP](https://www.jlcpcb.com) (service of JLCPCB)
 
@@ -34,7 +45,3 @@ By default, they will review your designs and send you an email to pay within a 
 NOTE: Most of the time, however, they will also send you an email to confirm that you want to assume the risk of ordering the design as-is as they are too long and may deform during production or have parts which are too thin. I've always accepted the risk.
 
 NOTE: The design of this bezel is somewhat prone to bending. In most cases, it can be straightened by screwing it into the case and allowing the case frame to rest on top of it. Over a few days, it usually straightens out. However, there is always a risk that this may not work. Please be aware of this possibility.
-
-## Use Cases
-
-![Assembled](Images/Use_Case.png)
